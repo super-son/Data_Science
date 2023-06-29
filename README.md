@@ -1,2 +1,3 @@
-# Data_Science
-Data_Science class 3-1
+## Data_Science
+- 주어진 데이터를 학습하고 새로운 데이터에 대해 결과값 예측
+- 데이터 사이언스의 지도학습 및 비지도학습 알고리즘을 구현
